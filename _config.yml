@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "http://sulab-sever.u-aizu.ac.jp/ACNS2021/a"
+footer_url: "https://sites.google.com/di.uniroma1.it/acns2022/"
 footer_text: "SiMLA 2022 (Co-located with ACNS2022)"
 
 sass:
@@ -17,5 +17,5 @@ sass:
 
 nav:
  - name: "ACNS 2022"
-   link: "http://sulab-sever.u-aizu.ac.jp/ACNS2021/"
+   link: "https://sites.google.com/di.uniroma1.it/acns2022/"
 
