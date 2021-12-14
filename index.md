@@ -15,9 +15,9 @@ layout: default
 
 ## Important Dates
 
-- Submission deadline: <s>March 25, 2021</s> April 16, 2021 (Anywhere on Earth)
-- Acceptance Notification: May 8, 2021
-- Camera-ready deadline: May 20, 2021 (Anywhere on Earth)
+- Submission deadline: March 17, 2022 (Anywhere on Earth)
+- Acceptance Notification: April 24, 2022
+- Camera-ready deadline: May 8, 2022 (Anywhere on Earth)
 
 ## Workshop Background
 
@@ -68,7 +68,11 @@ Authors should consult Springer's authors' guidelines and use their proceedings 
 
 **EasyChair System will be used for paper submission.**
 
-To be set up. 
+
+## Best Workshop Paper Award
+
+Each workshop affiliated with ACNS 2022 will nominate the best paper candidates. Best workshop papers will be selected and awarded among them.
+
 
 <!-- https://easychair.org/conferences/?conf=simla2020 -->
 
