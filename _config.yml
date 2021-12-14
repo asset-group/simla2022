@@ -1,6 +1,6 @@
 title: Security in Machine Learning and its Applications (SiMLA 2021)
 url: ""
-baseurl: "/simla2021"
+baseurl: "/simla2022"
 
 markdown: kramdown
 # ins_logo: "images/simla-logo.png"
@@ -9,13 +9,13 @@ tracking_id: #
 
 footer: yes
 footer_url: "http://sulab-sever.u-aizu.ac.jp/ACNS2021/a"
-footer_text: "SiMLA 2021 (Co-located with ACNS2021)"
+footer_text: "SiMLA 2022 (Co-located with ACNS2022)"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "ACNS 2021"
+ - name: "ACNS 2022"
    link: "http://sulab-sever.u-aizu.ac.jp/ACNS2021/"
 
