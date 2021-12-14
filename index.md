@@ -8,9 +8,9 @@ layout: default
 <!-- ![](images/simla-logo.png =180x) -->
 <img src="images/simla-logo.png"/>
 
-### 21-24 June 2021 - Kamakura, Japan 
+### 20-23 June 2022 - Rome, Italy 
 
-### (Co-located with ACNS 2021)
+### (Co-located with ACNS 2022)
 
 
 ## Important Dates
@@ -68,8 +68,7 @@ Authors should consult Springer's authors' guidelines and use their proceedings 
 
 **EasyChair System will be used for paper submission.**
 
-[https://easychair.org/my/conference?conf=simla2021](https://easychair.org/my/conference?conf=simla2021)
-
+To be set up. 
 
 <!-- https://easychair.org/conferences/?conf=simla2020 -->
 
@@ -81,30 +80,11 @@ Authors should consult Springer's authors' guidelines and use their proceedings 
 
 ## Program Committee
 
-
-[Chris Poskitt](https://cposkitt.github.io/) |  Singapore Management University  |
-[Shuhao Zhang](https://shuhaozhangtony.github.io/) | Singapore University of Technology and Design  | 
-[Wenrui Diao](https://diaowenrui.github.io/) | Shandong University |
-[Jingyi Wang](https://wang-jingyi.github.io/) | Zhejiang University | 
-[Ezekiel Soremekun](https://scholar.google.com.sg/citations?user=r8T1-yoAAAAJ) | SnT, University of Luxembourg | 
-[Shuang Liu](https://tjusail.github.io/people/liushuang.html) | Tianjin University | 
-[Kehuan Zhang](https://staff.ie.cuhk.edu.hk/~khzhang/) | The Chinese University of Hong Kong | 
+TBA
 
 ## Program
 
-Time Table |
-
-Japan (UTC+9) | Singapore <br> (UTC +8) |  CEST (UTC+2) |  UTC | **Agenda** | **Chair** | **Details**
-15:20 | 14:20 | 8:20 | 6:20 | Opening | Sudipta |
-15:30 | 14:30 | 8:30 | 6:30 |  Invited Talk |   Sudipta | Speaker Name:<br>[**Dr. Mike Papadakis**](https://sites.google.com/site/mikepapadakis/)<br><br> Affiliation:<br>SnT, University of Luxembourg <br><br> Title:<br>Adversarial Attacks in ML-Enabled Systems
-16:30 | 15:30 | 9:30 | 7:30 | Break | -
-16:45 | 15:45 | 9:45 | 7:45 |  Paper <br>(30 min each) |  TBD | (1) Towards Demystifying Adversarial Robustness of Binarized Neural Networks <br><br>(2) Kryptonite: An Adversarial Attack using Regional Focus 
-18:00 | 17:00 | 11:00 | 9:00 | Closing  | Sudipta
-
-<!-- <span style="color:red">* Time in US is on June 24</span>.
- -->
-[Download Program](https://drive.google.com/file/d/1iEExWM9IRjXwG6nou0hp9MwyF03IKwu7/view?usp=sharing)
-
+TBA
 
 
 
