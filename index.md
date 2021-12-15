@@ -81,6 +81,7 @@ Each workshop affiliated with ACNS 2022 will nominate the best paper candidates.
 
 [Sudipta Chattopadhyay](https://asset-group.github.io/) | Singapore University of Technology and Design  | Workshop Chair |
 [Sakshi Udeshi](http://sakshiudeshi.github.io/) | Singapore University of Technology and Design  | Web Chair |
+[Ezekiel Soremekun](https://scholar.google.com.sg/citations?user=r8T1-yoAAAAJ) | SnT, University of Luxembourg | Publicity Chair |
 
 ## Program Committee
 
