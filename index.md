@@ -66,7 +66,9 @@ The submissions must be anonymous, with no author names, affiliations, acknowled
 
 Authors should consult Springer's authors' guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form, through which the copyright for their paper is transferred to Springer. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
-**EasyChair System will be used for paper submission.**
+## Submission Link
+
+Please submit your paper via Easychair: https://easychair.org/conferences/?conf=simla2022
 
 
 ## Best Workshop Paper Award
