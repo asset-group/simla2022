@@ -87,7 +87,12 @@ Each workshop affiliated with ACNS 2022 will nominate the best paper candidates.
 
 ## Program Committee
 
-TBA
+[Amir Aminifar](https://portal.research.lu.se/en/persons/amir-aminifar) | Lund University | 
+[Shuang Liu](https://tjusail.github.io/people/liushuang.html) | Tianjin University | 
+[Chris Poskitt](https://cposkitt.github.io/) |  Singapore Management University  |
+[Ahmed Rezine](https://rezahmed.github.io/) | Link\"oping University | 
+[Ezekiel Soremekun](https://scholar.google.com.sg/citations?user=r8T1-yoAAAAJ) | SnT, University of Luxembourg |
+[Jingyi Wang](https://wang-jingyi.github.io/) | Zhejiang University | 
 
 ## Program
 
