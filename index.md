@@ -68,7 +68,7 @@ Authors should consult Springer's authors' guidelines and use their proceedings 
 
 ## Submission Link
 
-Please submit your paper via Easychair: https://easychair.org/conferences/?conf=simla2022
+Please submit your paper via Easychair: [Easychair submission link](https://easychair.org/conferences/?conf=simla2022)
 
 
 ## Best Workshop Paper Award
