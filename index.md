@@ -102,7 +102,7 @@ CEST (UTC+2) |  UTC | **Agenda** | **Chair** | **Details**
 9:10 | 7:10 | Opening | Sudipta |
 9:15 | 7:15 |  Invited Talk |   Sudipta | Speaker Name:<br>**TBD**<br><br> Affiliation:<br>TBD<br><br> Title:<br>TBD
 10:15 | 8:15 | Break | -
-10:30 | 8:30 |  Paper <br>(30 min each) |  TBD | (1) Esteban Rivera, Lizzy Tengana, Jesús Solano, Christian Lopez, Johana Florez and Martín Ochoa. Scalable and Secure HTML5 Canvas-Based Useruthentication<br><br> (2) Moran Baruch, Nir Drucker, Lev Greenberg and Guy Moshkowich. A methodology for training homomorphic encryption friendly neural networks<br><br> (3) Badr Souani, Ahmed Khanfir, Alexandre Bartel, Kevin Allix and Yves Le Traon. Android Malware Detection Using BERT<br><br> (4) Jesús Solano, Esteban Rivera, Lizzy Tengana, Christian Lopez, Johana Florez and Martín Ochoa. A Siamese Neural Network for scalable Behavioral Biometrics Authentication
+10:30 | 8:30 |  Paper <br>(30 min each) |  TBD | (1) Esteban Rivera, Lizzy Tengana, Jesús Solano, Christian Lopez, Johana Florez and Martín Ochoa. Scalable and Secure HTML5 Canvas-Bas User Authentication<br><br> (2) Moran Baruch, Nir Drucker, Lev Greenberg and Guy Moshkowich. A methodology for training homomorphic encryption friendly neural networks<br><br> (3) Badr Souani, Ahmed Khanfir, Alexandre Bartel, Kevin Allix and Yves Le Traon. Android Malware Detection Using BERT<br><br> (4) Jesús Solano, Esteban Rivera, Lizzy Tengana, Christian Lopez, Johana Florez and Martín Ochoa. A Siamese Neural Network for scalable Behavioral Biometrics Authentication
 12:30 | 10:30 | Closing  | Sudipta
 
 
