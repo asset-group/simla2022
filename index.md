@@ -96,7 +96,7 @@ Each workshop affiliated with ACNS 2022 will nominate the best paper candidates.
 
 ## Program
 
-Time Table |
+Time Table (22nd June, 2022) |
 
 CEST (UTC+2) |  UTC | **Agenda** | **Chair** | **Details**
 9:10 | 7:10 | Opening | Sudipta |
